@@ -81,4 +81,4 @@ windows待完成（cl不熟，GDNative貌似gcc编译出来有问题可能是电
 
 ```
 
-由于容量限制GDSqliteLib/godot-cpp/bin/libgodot-cpp.linux.debug.64.a
+由于容量限制GDSqliteLib/godot-cpp/bin/libgodot-cpp.linux.debug.64.a未上传
